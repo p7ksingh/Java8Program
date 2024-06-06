@@ -3,6 +3,7 @@ package com.example.demo;
 public class FibNum {
     static long getFebNum(int n) {
         long a = 0, b = 1, c;
+//syspuy
         if (n == 0)
             return a;
         for (int i = 2; i <= n; i++) {
